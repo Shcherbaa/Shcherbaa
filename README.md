@@ -1,16 +1,20 @@
-## Hi there 👋
+## Ihar Shcharbitski — Cybersecurity Student
 
-<!--
-**Shcherbaa/Shcherbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Belarusian IT specialist building a career in cybersecurity.
+Focused on offensive security, network analysis, and understanding
+systems at a deep level across Windows and Linux environments.
 
-Here are some ideas to get you started:
+**Areas of focus:**
+- Penetration testing & vulnerability assessment
+- Network security & traffic analysis
+- Windows & Linux internals
+- PowerShell & Bash tooling
+- Home lab: Ryzen 9 3900X · RTX 3060 · VirtualBox
+  
+**Certifications:**
+- Google Cybersecurity Certificate ✓
+- HTB Academy — CJCA path (active)
+- Roadmap: eJPT → PNPT → OSCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihar%20Shcharbitski-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ihar-shcharbitski-4184813a6)
+[![GitHub](https://img.shields.io/badge/GitHub-Shcherbaa-181717?style=flat&logo=github)](https://github.com/Shcherbaa)
