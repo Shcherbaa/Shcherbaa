@@ -1,11 +1,12 @@
 ## Ihar Shcharbitski — Cybersecurity Student
 
 Belarusian IT specialist building a career in cybersecurity.
-Focused on offensive security, network analysis, and understanding
+Focused on offensive security, SOC, network analysis, and understanding
 systems at a deep level across Windows and Linux environments.
 
 **Areas of focus:**
 - Penetration testing & vulnerability assessment
+- SOC analysis
 - Network security & traffic analysis
 - Windows & Linux internals
 - PowerShell & Bash tooling
@@ -13,7 +14,7 @@ systems at a deep level across Windows and Linux environments.
   
 **Certifications:**
 - Google Cybersecurity Certificate ✓
-- HTB Academy — CJCA path (active)
+- HTB Academy — CJCA path ✓
 - Roadmap: eJPT → PNPT → OSCP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihar%20Shcharbitski-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ihar-shcharbitski-4184813a6)
