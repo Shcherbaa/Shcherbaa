@@ -1,6 +1,4 @@
-## Ihar Shcharbitski — Cybersecurity Student
-
-IT specialist building a career in cybersecurity.
+## Ihar Shcharbitski — Cybersecurity Specialist
 
 **Areas of focus:**
 - Penetration testing & vulnerability assessment
